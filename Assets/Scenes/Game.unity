@@ -7887,7 +7887,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f457790a4546dc443802c1765de3eca4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startTanks: 1
+  startTanks: 6
   winPanel: {fileID: 836105431}
 --- !u!135 &1446436514188453834
 SphereCollider:
